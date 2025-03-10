@@ -1,0 +1,13 @@
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\bin\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.deps.json
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\bin\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.dll
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\bin\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.pdb
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\bin\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.xml
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.csproj.AssemblyReference.cache
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.AssemblyInfoInputs.cache
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.AssemblyInfo.cs
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.sourcelink.json
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.dll
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.xml
+C:\Users\hp\RiderProjects\Lab10\InMindAcademy.Lab10.Tala\obj\Debug\netstandard2.0\InMindAcademy.Lab10.Tala.pdb

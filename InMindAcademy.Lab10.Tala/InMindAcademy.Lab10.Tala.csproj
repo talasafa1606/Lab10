@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageId>InMindAcademy.Lab10.Tala</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Tala Safa</Authors>
+        <Company>InMind Academy</Company>
+        <Product>Text Handling Library</Product>
+        <Description>A comprehensive text handling library providing string formatting between different casings and text statistics analysis.</Description>
+        <PackageTags>string;text;formatting;statistics;casing;snake-case;camel-case;pascal-case;kebab-case</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+</Project>

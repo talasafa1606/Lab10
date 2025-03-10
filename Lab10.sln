@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab10", "Lab10\Lab10.csproj", "{EFFFE968-5BCE-4F1D-AD28-5B48F4AAC4D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TalaSafa", "TalaSafa", "{19E04C94-A17A-4B6C-8BAB-5F2C79E2B960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMindAcademy.Lab10.Tests", "InMindAcademy.Lab10.Tests\InMindAcademy.Lab10.Tests.csproj", "{CED7A5CA-6017-4261-8827-6E109F16E962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMindAcademy.Lab10.Tala", "InMindAcademy.Lab10.Tala\InMindAcademy.Lab10.Tala.csproj", "{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFFE968-5BCE-4F1D-AD28-5B48F4AAC4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFFE968-5BCE-4F1D-AD28-5B48F4AAC4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFFE968-5BCE-4F1D-AD28-5B48F4AAC4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFFE968-5BCE-4F1D-AD28-5B48F4AAC4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED7A5CA-6017-4261-8827-6E109F16E962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED7A5CA-6017-4261-8827-6E109F16E962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED7A5CA-6017-4261-8827-6E109F16E962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED7A5CA-6017-4261-8827-6E109F16E962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CED7A5CA-6017-4261-8827-6E109F16E962} = {19E04C94-A17A-4B6C-8BAB-5F2C79E2B960}
+		{B3A43D1E-033E-4CC0-BA56-0E3DD88865B8} = {19E04C94-A17A-4B6C-8BAB-5F2C79E2B960}
+	EndGlobalSection
+EndGlobal

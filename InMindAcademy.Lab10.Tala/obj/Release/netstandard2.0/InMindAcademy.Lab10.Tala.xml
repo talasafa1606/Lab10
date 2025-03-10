@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InMindAcademy.Lab10.Tala</name>
+    </assembly>
+    <members>
+        <member name="T:InMindAcademy.Lab10.Tala.StringFormatter">
+            <summary>
+            Provides string formatting utilities for converting between different casing styles
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringFormatter.ToPascalCase(System.String)">
+            <summary>
+            Converts a string to PascalCase (each word starts with uppercase, no separators)
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringFormatter.ToCamelCase(System.String)">
+            <summary>
+            Converts a string to camelCase (first word starts with lowercase, rest with uppercase, no separators)
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringFormatter.ToSnakeCase(System.String)">
+            <summary>
+            Converts a string to snake_case (all lowercase with underscore separators)
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringFormatter.ToKebabCase(System.String)">
+            <summary>
+            Converts a string to kebab-case (all lowercase with hyphen separators)
+            </summary>
+        </member>
+        <member name="T:InMindAcademy.Lab10.Tala.StringStatistics">
+            <summary>
+            Provides utilities for analyzing text and generating statistics
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringStatistics.#ctor(System.String)">
+            <summary>
+            Initialize a new StringStatistics instance with the given text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.CharacterCount">
+            <summary>
+            Gets the total character count of the text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.CharacterCountWithoutWhitespace">
+            <summary>
+            Gets the total character count excluding whitespace
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.WordCount">
+            <summary>
+            Gets the word count in the text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.SentenceCount">
+            <summary>
+            Gets the sentence count in the text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.WordFrequency">
+            <summary>
+            Gets a dictionary of words and their frequencies
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.MostCommonWord">
+            <summary>
+            Gets the most common word in the text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.LeastCommonWord">
+            <summary>
+            Gets the least common word in the text
+            </summary>
+        </member>
+        <member name="P:InMindAcademy.Lab10.Tala.StringStatistics.AverageWordLength">
+            <summary>
+            Gets the average word length in the text
+            </summary>
+        </member>
+        <member name="M:InMindAcademy.Lab10.Tala.StringStatistics.GetTextReport">
+            <summary>
+            Returns a comprehensive statistical report of the text
+            </summary>
+        </member>
+    </members>
+</doc>
